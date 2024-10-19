@@ -12,4 +12,5 @@ node weather.js [TAG PLACE]
 4. After that, just text node weather.js without tags to get the result  
 
 _App work presentation:_  
-<img width="401" alt="weather" src="https://github.com/user-attachments/assets/6cf35cf2-0d28-45db-bfcd-d0ae886a38cc">
+
+<img width="367" alt="weather" src="https://github.com/user-attachments/assets/e78045cf-7331-4528-ad5e-2794ef589be3">
